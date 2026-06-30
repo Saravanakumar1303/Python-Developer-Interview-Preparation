@@ -34,6 +34,16 @@ This repository contains my daily problem-solving practice, algorithms, and codi
 - GCD
 - LCM
 - Rightmost Non-Zero Digit in Array Product
-
 ---
+#### Day 02
+- Function With Return Value
+- Function With No Arguments
+- Function With Arguments
+- First Digit of a Number
+- Print GFG N Times
+- Print 1 To N Without Loop
+- Fibonacci Series up to Nth Term
+- Juggler Sequence
+- Power Of Numbers
+----
 ⭐ Consistency over perfection. Learning one problem at a time.
