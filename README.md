@@ -46,4 +46,15 @@ This repository contains my daily problem-solving practice, algorithms, and codi
 - Juggler Sequence
 - Power Of Numbers
 ----
+### Day 03
+- List Traversal
+- Find Size of Array/List
+- Sum of Array Elements
+- Decrement Array Elements
+- Append to List
+- Find Elements Less Than K
+- Calculate Mean of an Array
+- Find Missing Number
+- Find Second Largest Element
+----
 ⭐ Consistency over perfection. Learning one problem at a time.
