@@ -57,4 +57,15 @@ This repository contains my daily problem-solving practice, algorithms, and codi
 - Find Missing Number
 - Find Second Largest Element
 ----
+### Day 04
+
+- Repeat a String
+- String Functions (Trim, Exists, Swapcase, Title)
+- Reverse a String
+- Check Palindrome
+- Count Vowels and Consonants
+- Check Anagram
+- Find First Non-Repeating Character
+- Find Second Non-Repeating Character
+
 ⭐ Consistency over perfection. Learning one problem at a time.
